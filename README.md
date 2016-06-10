@@ -5,7 +5,7 @@ Script to add Image to lightbox jQuery plugin without writing any HTML
 When you use Lightbox in your Webpage, sometimes you need to show a large number of images.
 In that case, you have to write all the <img> tags and the image file names.
 You can use this script to grab all the images from a folder nad show them
-in Lightbox.
+in Lightbox.<br>
 [Check Out The Demo](http://itsnzsaad.github.io/lightbox-auto-image-adder/)
 
 ## How To Use it?
