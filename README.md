@@ -9,13 +9,13 @@ in Lightbox.<br>
 ###[Check Out The Demo](http://itsnzsaad.github.io/lightbox-auto-image-adder/)
 
 ## How To Use it?
-###1. At first call the Lightbox Stylesheet from CDN inside <head>
+###1. At first call the Lightbox Stylesheet from CDN inside ```<head>```
 ```
 	<link rel="stylesheet" 
   href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.8.2/css/lightbox.min.css">  
 ```
 
-###2.  Call the jQuery and Lightbox Script from CDN below </body>
+###2.  Call the jQuery and Lightbox Script from CDN below ```</body>```
 ```
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
   <script type="text/javascript" 
