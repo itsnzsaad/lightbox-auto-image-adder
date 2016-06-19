@@ -1,5 +1,5 @@
 # lightbox-auto-image-adder
-Script to add Image to lightbox jQuery plugin without writing any HTML
+Script to add All Images of a Folder to lightbox jQuery plugin without writing any HTML
 
 ## Where to use it?
 When you use Lightbox in your Webpage, sometimes you need to show a large number of images.
