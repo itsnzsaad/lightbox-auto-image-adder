@@ -22,7 +22,7 @@ in Lightbox.<br>
   </script>
 ```
 
-###3. Put The Script Below in your index.php file and Keep The Images in a Folder named "lb_gallery"
+###3. Put The Script Below in your index.php file and Keep The Images in a Folder named "lightbox_images"
 
 ```
 <div class="lb_gallery">
